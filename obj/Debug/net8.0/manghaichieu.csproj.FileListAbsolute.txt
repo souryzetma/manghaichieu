@@ -1,0 +1,14 @@
+E:\manghaichieu\bin\Debug\net8.0\manghaichieu.exe
+E:\manghaichieu\bin\Debug\net8.0\manghaichieu.deps.json
+E:\manghaichieu\bin\Debug\net8.0\manghaichieu.runtimeconfig.json
+E:\manghaichieu\bin\Debug\net8.0\manghaichieu.dll
+E:\manghaichieu\bin\Debug\net8.0\manghaichieu.pdb
+E:\manghaichieu\obj\Debug\net8.0\manghaichieu.GeneratedMSBuildEditorConfig.editorconfig
+E:\manghaichieu\obj\Debug\net8.0\manghaichieu.AssemblyInfoInputs.cache
+E:\manghaichieu\obj\Debug\net8.0\manghaichieu.AssemblyInfo.cs
+E:\manghaichieu\obj\Debug\net8.0\manghaichieu.csproj.CoreCompileInputs.cache
+E:\manghaichieu\obj\Debug\net8.0\manghaichieu.dll
+E:\manghaichieu\obj\Debug\net8.0\refint\manghaichieu.dll
+E:\manghaichieu\obj\Debug\net8.0\manghaichieu.pdb
+E:\manghaichieu\obj\Debug\net8.0\manghaichieu.genruntimeconfig.cache
+E:\manghaichieu\obj\Debug\net8.0\ref\manghaichieu.dll
